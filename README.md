@@ -1,18 +1,19 @@
-## Hi there 👋 Welcome to my Kingdom!
+## 👑 Hi there! Welcome to my Kingdom!
 
-I'm Florian Hounkpatin, an AI & Data Science student in France, passionate about AI,  Machine Learning & Data Engineering.
+I'm **Florian Hounkpatin**, an AI & Data Science student in Paris, France, passionate about **Artificial Intelligence, Machine Learning, and Data Engineering**. I love solving real-world problems through data and AI-driven solutions.
 ____
 
 ## 🚀 About Me
 
-📊 Strong in Python, SQL, R, Web Scraping, Power BI, and Tableau
+🤖 **Tech Stack**: Python, SQL, R, Web Scraping, Power BI, Tableau
 
-🏢 Worked on projects with different companies such as Banque de France, Isart Digital, and X&Y Corp
+💪 **Experience**:  Worked on diverse and impactful projects, including an **[association matching system](https://github.com/Kingflow-23/Association-matching)**, an AI-powered identification document classification model, and multiple data analysis projects for company recommendations.
 
-I'm currently working on the SONIC GAN project, an automated generator of sonic like levels, more information [here](https://github.com/vsx23733/SONIC-GAN)
+⚜️ **Current Project**: SONIC GAN – an AI-powered procedural level generator for Sonic-like platform games. More details [here](https://github.com/vsx23733/SONIC-GAN) 🚀
 
-Like basketball chess piano and coding 
+🎰 **Side Projects**: I enjoy coding fun games in my free time! check it out [here](https://github.com/Kingflow-23/Funny-Games)!
 
+🎵 **Beyond Tech**: Passionate about basketball, chess, and piano
 ___ 
 
 ## How to reach me 
