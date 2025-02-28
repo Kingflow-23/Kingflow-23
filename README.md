@@ -13,7 +13,7 @@ ____
 
 🎰 **Side Projects**: I enjoy coding fun games in my free time! check it out [here](https://github.com/Kingflow-23/Funny-Games)!
 
-🎵 **Beyond Tech**: Passionate about basketball, chess, and piano
+🎵 **Beyond Tech**: Passionate about basketball, chess, and piano.
 ___ 
 
 ## How to reach me 
