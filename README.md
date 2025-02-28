@@ -18,6 +18,6 @@ ___
 
 ## How to reach me 
 
-- Mail : florian.l.d.hounkpatin@gmail.com
-- [Linkedin](https://www.linkedin.com/in/florian-hounkpatin/)
+[<img src="assets/envelope.png" height="50px">](mailto:florian.l.d.hounkpatin@gmail.com)
+[<img src="assets/linkedin.png" height="50px">](https://www.linkedin.com/in/florian-hounkpatin/)
 
