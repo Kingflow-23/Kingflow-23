@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my Kingdom!
 
-<!--
-**Kingflow-23/Kingflow-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Florian Hounkpatin, an AI & Data Science student in France, passionate about AI,  Machine Learning & Data Engineering.
+____
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Strong in Python, SQL, R, Web Scraping, Power BI, and Tableau
+
+🏢 Worked on projects with different companies such as Banque de France, Isart Digital, and X&Y Corp
+
+I'm currently working on the SONIC GAN project, an automated generator of sonic like levels, more information [here](https://github.com/vsx23733/SONIC-GAN)
+
+Like basketball chess piano and coding 
+
+___ 
+
+## How to reach me 
+
+- Mail : florian.l.d.hounkpatin@gmail.com
+- [Linkedin](https://www.linkedin.com/in/florian-hounkpatin/)
+
