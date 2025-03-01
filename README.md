@@ -1,9 +1,9 @@
-## 👑 Hi there! Welcome to my Kingdom!
+# 👑 Hi there! Welcome to my Kingdom!
 
 I'm **Florian**, an AI & Data Science student in Paris, France, passionate about **Artificial Intelligence, Machine Learning, and Data Engineering**. I love solving real-world problems through data and AI-driven solutions.
 ____
 
-## 🚀 About Me
+# 🚀 About Me
 
 🤖 **Tech Stack**: Python, SQL, R, Web Scraping, Power BI, Tableau
 
@@ -16,7 +16,7 @@ ____
 🎵 **Beyond Tech**: Passionate about basketball, chess, and piano.
 ___ 
 
-## How to reach me 
+# How to reach me 
 
 [<img src="assets/envelope.png" height="50px">](mailto:florian.l.d.hounkpatin@gmail.com)
 [<img src="assets/linkedin.png" height="50px">](https://www.linkedin.com/in/florian-hounkpatin/)
