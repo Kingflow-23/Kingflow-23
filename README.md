@@ -1,6 +1,6 @@
 ## 👑 Hi there! Welcome to my Kingdom!
 
-I'm **Florian Hounkpatin**, an AI & Data Science student in Paris, France, passionate about **Artificial Intelligence, Machine Learning, and Data Engineering**. I love solving real-world problems through data and AI-driven solutions.
+I'm **Florian**, an AI & Data Science student in Paris, France, passionate about **Artificial Intelligence, Machine Learning, and Data Engineering**. I love solving real-world problems through data and AI-driven solutions.
 ____
 
 ## 🚀 About Me
