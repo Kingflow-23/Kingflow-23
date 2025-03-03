@@ -44,7 +44,7 @@ ___
 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Kingflow-23&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kingflow-23&theme=radical)](https://git.io/streak-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=Kingflow-23&theme=radical&hide_border=False)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kingflow-23&show_icons=true&theme=radical)  
 
