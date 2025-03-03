@@ -42,10 +42,10 @@ ___
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kingflow-23&color=blue&style=flat)
 
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Kingflow-23&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Kingflow-23&theme=radical&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Kingflow-23&theme=radical&hide_border=False)
+![](https://nirzak-streak-stats.vercel.app/?user=Kingflow-23&theme=radical&hide_border=False&cache_seconds=3600)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kingflow-23&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kingflow-23&show_icons=true&theme=radical&cache_seconds=3600)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingflow-23&layout=compact&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingflow-23&layout=compact&theme=radical&cache_seconds=3600)
