@@ -22,7 +22,7 @@ ____
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-💪 **Experience**:  Worked on diverse and impactful projects, including an **[association matching system](https://github.com/Kingflow-23/Association-matching)**, an AI-powered identification document classification model, and multiple data analysis projects for company recommendations.
+💪 **Experience**:  Worked on diverse and impactful projects, including an **[association matching system](https://github.com/Kingflow-23/Association-matching)**, a [review sentiment analysis classifier](https://github.com/Kingflow-23/Sentiment-Analysis-project), an AI-powered identification document classification model, and multiple data analysis projects for company recommendations.
 
 ⚜️ **Current Project**: SONIC GAN – an AI-powered procedural level generator for Sonic-like platform games. More details [here](https://github.com/vsx23733/SONIC-GAN) 🚀
 
