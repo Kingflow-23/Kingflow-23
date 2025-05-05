@@ -24,7 +24,7 @@ ____
 
 💪 **Experience**:  Worked on diverse and impactful projects, including an **[association matching system](https://github.com/Kingflow-23/Association-matching)**, a [review sentiment analysis classifier](https://github.com/Kingflow-23/Sentiment-Analysis-project), an AI-powered identification document classification model, and multiple data analysis projects for company recommendations.
 
-⚜️ **Current Project**: SONIC GAN – an AI-powered procedural level generator for Sonic-like platform games. More details [here](https://github.com/vsx23733/SONIC-GAN) 🚀
+⚜️ **Last Project**: SONIC GAN – an AI-powered procedural level generator for Sonic-like platform games. More details [here](https://github.com/vsx23733/SONIC-GAN) 🚀
 
 🎰 **Side Projects**: I enjoy coding fun games in my free time! check it out [here](https://github.com/Kingflow-23/Funny-Games)!
 
