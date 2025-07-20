@@ -1,6 +1,6 @@
-<h2 align="center">👑 Hi there! Welcome to my Kingdom!</h2>
+<h2 align="center">👑 Hi there! Welcome to my Kingdom! 👑</h2>
 
-<h3 align="center">⚜️ Random Quote</h3>
+<h3 align="center">⚜️ Random Quote ⚜️</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
