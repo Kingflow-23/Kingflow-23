@@ -79,8 +79,10 @@ ___
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingflow-23&layout=compact&theme=radical&cache_seconds=3600" />
 </p>
 
+<h2 align="center">☕ Support My Work</h2>
+
 <p align="center">
-  <a href="https://www.buymeacoffee.com/kingflow">
+  <a href="https://coff.ee/kingflow23" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-F7941D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
