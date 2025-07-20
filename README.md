@@ -55,6 +55,7 @@ ___
     <img src="assets/linkedin.png" height="50px" />
   </a>
 </p>
+
 ___
 
 <h2 align="center">📊 GitHub Stats</h2>
