@@ -55,7 +55,6 @@ ___
     <img src="assets/linkedin.png" height="50px" />
   </a>
 </p>
-
 ___
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -78,4 +77,10 @@ ___
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingflow-23&layout=compact&theme=radical&cache_seconds=3600" />
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kingflow">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-F7941D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  </a>
 </p>
