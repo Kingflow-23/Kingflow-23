@@ -68,9 +68,7 @@ ___
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingflow-23&theme=radical&hide_border=false" />
 </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Kingflow-23&theme=radical&no-frame=true&margin-w=5" /> </p> 
-
-<p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=Kingflow-23&theme=radical&hide_border=False&cache_seconds=3600" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kingflow-23&show_icons=true&theme=radical&rank_icon=github" /> </p> 
 
 <h2 align="center">☕ Support My Work</h2>
 
