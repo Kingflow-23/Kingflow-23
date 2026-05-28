@@ -69,7 +69,7 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kingflow-23&theme=radical&hide_border=False&cache_seconds=3600" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingflow-23&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
