@@ -6,7 +6,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-I'm **Florian**, an AI & Data Science student in Paris 🇫🇷, passionate about **Artificial Intelligence, Machine Learning, and Data Engineering**. I love solving real-world problems through data and AI-driven solutions.
+I'm **Florian**, an AI Engineer passionate about **Artificial Intelligence, Machine Learning, and Data Engineering**. I love solving real-world problems through data and AI-driven solutions.
 ____
 
 ## 🚀 About Me
@@ -36,23 +36,11 @@ ____
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-💪 **Experience**:  Worked on diverse and impactful projects, including an **[association matching system](https://github.com/Kingflow-23/Association-matching)**, a [review sentiment analysis classifier](https://github.com/Kingflow-23/Sentiment-Analysis-project), an AI-powered identification document classification model, and multiple data analysis projects for company recommendations.
+💪 **Experience**:  Worked on diverse and impactful projects that you can find on my [portfolio](https://kingflow-23.github.io).
 
-🎰 **Side Projects**: I enjoy coding fun games in my free time! check it out [here](https://github.com/Kingflow-23/Funny-Games)!
+🎰 **Side Projects**: I enjoy coding fun games in my free time! 
 
-🎵 **Beyond Tech**: Passionate about basketball, chess.
-___ 
-
-<h2 align="center">📬 How to reach me</h2>
-
-<p align="center">
-  <a href="mailto:florian.l.d.hounkpatin@gmail.com">
-    <img src="assets/envelope.png" height="50px" />
-  </a>
-  <a href="https://www.linkedin.com/in/florian-hounkpatin/">
-    <img src="assets/linkedin.png" height="50px" />
-  </a>
-</p>
+🎵 **Beyond Tech**: Passionate about basketball and chess.
 
 ___
 
